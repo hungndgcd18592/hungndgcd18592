@@ -1,5 +1,5 @@
 <html>
-<heah>
+<head>
   <title>PHP Test</title>
 </head>
 <body>
